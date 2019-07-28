@@ -1,22 +1,22 @@
 [
   {
-    "name": "duplicate",
+    "name": "🙄 duplicate",
     "color": "cfd3d7"
   },
   {
-    "name": "invalid",
+    "name": "❌ invalid",
     "color": "e4e669"
   },
   {
-    "name": "Priority: Critical",
+    "name": "🏥 Priority: Critical",
     "color": "e11d21"
   },
   {
-    "name": "Priority: High",
+    "name": "🧯 Priority: High",
     "color": "eb6420"
   },
   {
-    "name": "Priority: Low",
+    "name": "🌿 Priority: Low",
     "color": "009200"
   },
   {
