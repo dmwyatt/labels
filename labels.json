@@ -45,7 +45,7 @@
   },
   {
     "name": "Status: In Progress",
-    "color": "#cccccc"
+    "color": "cccccc"
   },
   {
     "name": "Status: On Hold",
